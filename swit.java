@@ -8,7 +8,7 @@ public class swit {
             case 3:
                 System.out.println("Two");
                 break;
-            case 3:
+            case 9:
                 System.out.println("Three");
                 break;
             default:
