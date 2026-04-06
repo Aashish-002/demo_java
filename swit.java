@@ -5,7 +5,7 @@ public class swit {
             case 5:
                 System.out.println("One");
                 break;
-            case 2:
+            case 3:
                 System.out.println("Two");
                 break;
             case 3:
