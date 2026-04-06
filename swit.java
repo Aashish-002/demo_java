@@ -2,7 +2,7 @@ public class swit {
     public static void main(String[] args) {
         int value = 2;
         switch (value) {
-            case 1:
+            case 5:
                 System.out.println("One");
                 break;
             case 2:
